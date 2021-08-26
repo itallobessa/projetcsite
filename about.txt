@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Andada
+- Font Author: Copyright (c) 2011, Huerta Tipografica (www.huertatipografica.com.ar), with Reserved Font Names "Andada", "Andada Pro" and "Andada HT"
+- Font Source: http://fonts.gstatic.com/s/andada/v12/uK_y4riWaego3w9RCh0TMv6EXw.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
